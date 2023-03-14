@@ -1,0 +1,26 @@
+{
+  "name": "csharp-pack",
+  "displayName": ":C# pack",
+  "publisher": "AlejoCP00",
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/alejocp00/csharp-pack/"
+  },
+  "bugs": {
+    "url": "https://github.com/alejocp00/csharp-pack/issues"
+  },
+  "license": "mit",
+  "description": "A collection of all C# extensions that I'm using",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "yamachu.targetframeworksswitcher",
+    "ms-dotnettools.csharp",
+    "k--kato.docomment"
+  ]
+}
